@@ -1,6 +1,9 @@
 # Personal Webpage
 
 A modern, interactive single-page personal website for CHIA-CHENG CHUEH. 
+## Live Demo
+https://40436michael.github.io/-0225DRL_DIC1/
+![Uploading image.png…]()
 
 ## Project Summary
 This project is a beautifully crafted, responsive digital portfolio piece designed to make a strong visual impact. Utilizing advanced vanilla CSS techniques like glassmorphism and dynamic background gradients, it serves as a lightweight, performant, and stunning online presence. The page includes real-time JavaScript functionality and requires no external frameworks, ensuring incredibly fast load times and straightforward customization.
@@ -24,3 +27,4 @@ To view this project, simply double-click the `index.html` file to open it in an
 ## Customization & Theming
 You can easily customize properties within `index.html`. 
 The core CSS design system utilizes custom variables in the `:root` pseudo-class for quick theme adjustments, and the primary accent gradient used on the name can be adjusted in the `h1` CSS block.
+
