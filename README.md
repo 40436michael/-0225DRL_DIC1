@@ -1,6 +1,7 @@
 # Personal Webpage
 
 A modern, interactive single-page personal website for CHIA-CHENG CHUEH. 
+## 提示磁紀錄在 prompt history
 ## Live Demo
 https://40436michael.github.io/-0225DRL_DIC1/
 
